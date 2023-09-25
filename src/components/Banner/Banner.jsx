@@ -2,7 +2,7 @@
 
 const Banner = () => {
     return (
-       <div>
+       <div className="px-2">
         <div className="hero h-[40vh]" style={{backgroundImage: 'url(https://i.ibb.co/wJDjrwj/383314042-993914288548846-1091373714914908118-n.png)'}}>
   <div className="hero-overlay bg-opacity-90  bg-white"></div>
   <div className="hero-content text-center text-neutral-content">

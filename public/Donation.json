@@ -8,7 +8,7 @@
     "price": 290,
     "colors": {
       "bg-color": "#b3c6ff",
-      "bg-color2": "rgba(0, 82, 255, 0.20)",
+      "bg-color2": "#000000",
       "text-color": "#0052FF"
     }
   },
@@ -21,7 +21,7 @@
     "price": 390,
     "colors": {
       "bg-color": " #ffb3ff",
-      "bg-color2": "rgba(255, 68, 74, 0.20)",
+      "bg-color2": "#FF0000",
       "text-color": "#FF444A"
     }
   },
@@ -33,8 +33,8 @@
     "discussion": "Donation of clothing is a generous and eco-friendly way of helping others in need and reducing waste. Donation of clothing can provide warmth, comfort, and dignity to people who are homeless, poor, or displaced by disasters. Donation of clothing can also support charitable organizations that use the proceeds from selling donated clothes to fund their programs and services. Donation of clothing is a simple and meaningful act that can make a difference in the world.",
     "price": 350,
     "colors": {
-      "bg-color": "rgba(121, 194, 63, 0.15)",
-      "bg-color2": "rgba(121, 194, 63, 0.20)",
+      "bg-color": "#790000",
+      "bg-color2": "#790000",
       "text-color": " #79C23F"
     }
   },
@@ -46,8 +46,8 @@
     "discussion": "Better food for everyone is a vision of a world where no one goes hungry or suffers from malnutrition. Better food for everyone means that people have access to sufficient, safe, and nutritious food that meets their dietary needs and preferences. Better food for everyone also implies that food is produced and consumed in a sustainable and ethical way that respects the environment and the rights of farmers and workers. Better food for everyone is a goal that requires the collaboration and commitment of all stakeholders, from governments and businesses to civil society and individuals.",
     "price": 250,
     "colors": {
-      "bg-color": "rgba(248, 113, 71, 0.15)",
-      "bg-color2": "rgba(248, 113, 71, 0.20)",
+      "bg-color": "#F80000",
+      "bg-color2": "#F80000",
       "text-color": " #F87147"
     }
   },
@@ -59,8 +59,8 @@
     "discussion": "Healthy food for everyone is a vision of a world where no one goes hungry or suffers from malnutrition. Better food for everyone means that people have access to sufficient, safe, and nutritious food that meets their dietary needs and preferences. Better food for everyone also implies that food is produced and consumed in a sustainable and ethical way that respects the environment and the rights of farmers and workers. Better food for everyone is a goal that requires the collaboration and commitment of all stakeholders, from governments and businesses to civil society and individuals.",
     "price": 250,
     "colors": {
-      "bg-color": "rgba(248, 113, 71, 0.15)",
-      "bg-color2": "rgba(248, 113, 71, 0.20)",
+      "bg-color": "#F80000",
+      "bg-color2": "#F80000",
       "text-color": " #F87147"
     }
   },
@@ -72,8 +72,8 @@
     "discussion": "Donation of clothing is a generous and eco-friendly way of helping others in need and reducing waste. Donation of clothing can provide warmth, comfort, and dignity to people who are homeless, poor, or displaced by disasters. Donation of clothing can also support charitable organizations that use the proceeds from selling donated clothes to fund their programs and services. Donation of clothing is a simple and meaningful act that can make a difference in the world.",
     "price": 350,
     "colors": {
-      "bg-color": "rgba(121, 194, 63, 0.15)",
-      "bg-color2": "rgba(121, 194, 63, 0.20)",
+      "bg-color": "#790000",
+      "bg-color2": "#790000",
       "text-color": " #79C23F"
     }
   },
@@ -86,7 +86,7 @@
     "price": 390,
     "colors": {
       "bg-color": " #ffb3ff",
-      "bg-color2": "rgba(255, 68, 74, 0.20)",
+      "bg-color2": "#FF0000",
       "text-color": "#FF444A"
     }
   },
@@ -99,7 +99,7 @@
     "price": 290,
     "colors": {
       "bg-color": "#b3c6ff",
-      "bg-color2": "rgba(0, 82, 255, 0.20)",
+      "bg-color2": "#000000",
       "text-color": "#0052FF"
     }
   },
@@ -112,7 +112,7 @@
     "price": 290,
     "colors": {
       "bg-color": "#b3c6ff",
-      "bg-color2": "rgba(0, 82, 255, 0.20)",
+      "bg-color2": "#000000",
       "text-color": "#0052FF"
     }
   },
@@ -125,7 +125,7 @@
     "price": 390,
     "colors": {
       "bg-color": " #ffb3ff",
-      "bg-color2": "rgba(255, 68, 74, 0.20)",
+      "bg-color2": "#FF0000",
       "text-color": "#FF444A"
     }
   },
@@ -137,8 +137,8 @@
     "discussion": "Diversity for all implies a goal of providing everyone with clothing that is inclusive, diverse, and respectful of their culture, identity, and preferences. It is based on the principle that diversity is a strength and a source of beauty in clothing, and that no one should be excluded or discriminated by the clothing norms and standards. Some of the benefits of diversity for all include enhancing creativity, innovation, and expression, celebrating differences and similarities, fostering tolerance and acceptance, and promoting social cohesion.",
     "price": 350,
     "colors": {
-      "bg-color": "rgba(121, 194, 63, 0.15)",
-      "bg-color2": "rgba(121, 194, 63, 0.20)",
+      "bg-color": "#790000",
+      "bg-color2": "#790000",
       "text-color": " #79C23F"
     }
   },
@@ -150,8 +150,8 @@
     "discussion": "Nutrition for all a vision of ensuring that everyone has access to adequate, safe, and nutritious food that meets their dietary needs and preferences. It is based on the principle that nutrition is a key determinant and a human right of health, and that no one should suffer from hunger, malnutrition, or food insecurity. Some of the benefits of nutrition for all include improving health outcomes, preventing chronic diseases, enhancing cognitive development, and reducing poverty.",
     "price": 250,
     "colors": {
-      "bg-color": "rgba(248, 113, 71, 0.15)",
-      "bg-color2": "rgba(248, 113, 71, 0.20)",
+      "bg-color": "#F80000",
+      "bg-color2": "#F80000",
       "text-color": " #F87147"
     }
   }
