@@ -14,7 +14,7 @@ const Nav = () => {
         <div>
             <div className="navbar bg-base-100">
   <div className="flex-1">
-    <img src="/Resources/Logo.png" className="h-[40px]"></img>
+    <img src="/public/Logo.png" className="h-[40px]"></img>
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1">
