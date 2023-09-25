@@ -6,7 +6,7 @@ const Error = () => {
         <div className="flex justify-center items-center mt-[90px]">
             <div>
             <div className="card w-96 bg-base-100 shadow-xl">
-  <figure><img src="/public/7938315_3814246.jpg" alt="Shoes" /></figure>
+  <figure><img src="https://i.ibb.co/5vJ27Dc/7938315-3814246.jpg"/></figure>
   <div className="card-body">
    
     <Link to='/'>
