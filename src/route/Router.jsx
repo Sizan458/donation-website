@@ -5,6 +5,7 @@ import Error from "../components/Error page/Error";
 import Donation from "../components/Donaction/Donation";
 import Banner from "../components/Banner/Banner";
 import Cards from "../components/CardsContainer/Card/cardContainer";
+import Donations from "../components/Donations/Donations";
 
 
 
@@ -40,6 +41,10 @@ const Router =  createBrowserRouter([
                 element:<Donation></Donation>,
                 loader:()=>fetch('/Donation.json')
             
+        },
+        {
+            path:'/donations',
+            element:<Donations></Donations>
         }
     
 
