@@ -1,7 +1,8 @@
 
 ## Preview
 
-![App Screenshot](https://i.ibb.co/qnp2JrT/Web-capture-26-9-2023-123628-localhost.jpg)
+![App Screenshot](https://i.ibb.co/qxd54zN/Web-capture-26-9-2023-215928-righteous-brothers-surge-sh.jpg)
+
 
 
 # Course registration
