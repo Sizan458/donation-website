@@ -1,8 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Preview
 
-Currently, two official plugins are available:
+![App Screenshot](https://i.ibb.co/qnp2JrT/Web-capture-26-9-2023-123628-localhost.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Course registration
+
+A simple website to Donation.
+
+
+
+
+
+ 
+
+## Features
+
+- Data come from jason file
+- cards are  dymically add
+- It is responsive
+- it make using route system
+- It make using Ract.js
+
