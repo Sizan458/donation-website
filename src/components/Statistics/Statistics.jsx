@@ -33,8 +33,8 @@ const Statistics = () => {
    return (
       <div >
           <h1 className='text-center text-2xl text-black'>See your donation rate</h1>
-        <PieChart width={1200} height={500}>
-            <Pie data={data} dataKey="value" cx="50%" cy="40%" outerRadius={150} fill="#CB7E43 "  />
+        <PieChart width={300} height={400}  className='md:ml-[30%] lg:ml-[40%] mt-4 p-1'>
+            <Pie  data={data} dataKey="value" cx="50%" cy="40%" outerRadius={150} fill="#CB7E43 "  />
             <Tooltip/>
             </PieChart>
         
