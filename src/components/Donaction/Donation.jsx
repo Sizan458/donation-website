@@ -7,9 +7,9 @@ const Donation = () => {
     const[data,setData]=useState([])
     
     const {id}=useParams()
-    //console.log(id)
+    
     const cards= useLoaderData()
-    //console.log(cards)
+    
     
 useEffect(() => {
     const findCard=cards.find(card=>card.id==id);

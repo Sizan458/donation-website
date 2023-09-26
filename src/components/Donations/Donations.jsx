@@ -9,6 +9,8 @@ const Donations = () => {
     useEffect(() =>{
         const addToDonation = JSON.parse( localStorage.getItem('card'))
         if(addToDonation){
+           
+
         setCards(addToDonation)
         }else{
             setNotFound('No Data Found')
@@ -17,16 +19,16 @@ const Donations = () => {
     
     return (
         <div>
-         {notFound?<p className="h-[50vh ] mx-auto flex justify-center items-center text-2xl text-red-500">{notFound}</p>:<div className="grid grid-cols-2 gap-3">
+         {notFound?<p className="h-[50vh ] mx-auto flex justify-center items-center text-2xl text-red-500">{notFound}</p>:<div className="grid grid-cols-2 gap-3 p-4">
            
         {
-              isShow ? cards.map(card=><DonationsCart key={card.id} card={card}></DonationsCart> ):
-              cards.slice(0,4).map(card=><DonationsCart key={card.id} card={card}></DonationsCart> )
-             
+             isShow ? cards.map(card=><DonationsCart key={card.id} card={card}></DonationsCart> ):
+             cards.slice(0,4).map(card=><DonationsCart key={card.id} card={card}></DonationsCart> )
+              
         }
             
-      <div className="flex justify-center content-center lg:ml-[90%] mb-4">
-        <button  onClick={()=>setISShow(!isShow)} >{isShow ? "" :"Show All"}</button>
+      <div  className="flex justify-center mt-3 mb-3  lg:ml-[80%]">
+        <button className="text-2xl text-black" onClick={()=>setISShow(!isShow)}>{isShow ? '' :"Show All"}</button>
       </div>
             </div>}</div>
         

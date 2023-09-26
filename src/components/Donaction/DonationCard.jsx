@@ -24,12 +24,14 @@ const DonationCard = ({data}) => {
         <div className="p-5">
             <div className="card  bg-base-100 shadow-xl">
   <div className="card-body">
-    <img src={image}  className="h-[500px] p-1  "></img>
+    <img src={image}  className="h-[500px] w-full "></img>
     <h2 className="text-2xl font-bold text-black">{title}</h2>
     <p className="">{discussion}</p>
    
-    <div className="card-actions ">
-      <button className="btn btn-primary  -mt-[195px] ml-4 w-[130px]" onClick={handleClick}>Donate {price}$</button>
+    <div className=" absolute bg-black w-[96%]  opacity-50 h-[70px] mt-[429px]"  >
+    <div className=" mt-3  ml-3">
+      <button className="btn btn-primary   bg-red-500 text-white" onClick={handleClick}>Donate {price}$</button>
+    </div>
     </div>
   
   </div>

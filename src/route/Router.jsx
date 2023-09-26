@@ -6,6 +6,7 @@ import Donation from "../components/Donaction/Donation";
 import Banner from "../components/Banner/Banner";
 import Cards from "../components/CardsContainer/Card/cardContainer";
 import Donations from "../components/Donations/Donations";
+import Statistics from "../components/Statistics/Statistics";
 
 
 
@@ -45,6 +46,11 @@ const Router =  createBrowserRouter([
         {
             path:'/donations',
             element:<Donations></Donations>
+        },
+        {
+          path:'/statistics'  ,
+          element:<Statistics></Statistics>,
+        
         }
     
 

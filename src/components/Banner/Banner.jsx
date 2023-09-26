@@ -1,6 +1,8 @@
 
 
 const Banner = () => {
+
+  
     return (
        <div className="px-2">
         <div className="hero h-[40vh]" style={{backgroundImage: 'url(https://i.ibb.co/wJDjrwj/383314042-993914288548846-1091373714914908118-n.png)'}}>
@@ -21,6 +23,7 @@ const Banner = () => {
     className="!absolute right-1 top-1 z-10 select-none rounded bg-[#FF444A] py-2 px-4 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md shadow-pink-500/20 transition-all hover:shadow-lg hover:shadow-pink-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none peer-placeholder-shown:pointer-events-none peer-placeholder-shown:bg-blue-gray-500 peer-placeholder-shown:opacity-50 peer-placeholder-shown:shadow-none"
     type="button"
     data-ripple-light="true"
+    
   >
     Search
   </button>
