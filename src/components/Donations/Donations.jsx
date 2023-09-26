@@ -19,7 +19,7 @@ const Donations = () => {
     
     return (
         <div>
-         {notFound?<p className="h-[50vh ] mx-auto flex justify-center items-center text-2xl text-red-500">{notFound}</p>:<div className="grid grid-cols-2 gap-3 p-4">
+         {notFound?<p className="h-[50vh ] mx-auto flex justify-center items-center text-2xl text-red-500">{notFound}</p>:<div className="grid grid-cols-1 gap-3 p-4 md:grid-cols-1 lg:grid-cols-2 ">
            
         {
              isShow ? cards.map(card=><DonationsCart key={card.id} card={card}></DonationsCart> ):

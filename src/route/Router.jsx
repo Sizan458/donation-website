@@ -50,7 +50,7 @@ const Router =  createBrowserRouter([
         {
           path:'/statistics'  ,
           element:<Statistics></Statistics>,
-        
+          loader:()=>fetch('/Donation.json')
         }
     
 

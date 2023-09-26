@@ -6,11 +6,11 @@
     "category": "Health",
     "discussion": "Safe water for children is very important for their health and well-being. Children need clean water to drink, wash, and play. However, not all water sources are safe for children. Some water may contain harmful bacteria, viruses, chemicals, or metals that can cause illness or even death.",
     "price": 290,
-    "colors": {
+    
       "bg-color": "#b3c6ff",
       "bg-color2": "#000000",
       "text-color": "#0052FF"
-    }
+    
   },
   {
     "id": 2,
@@ -19,11 +19,11 @@
     "category": "Education",
     "discussion": "Good education is not only about acquiring knowledge and skills, but also about developing values and attitudes that can help us become responsible and compassionate citizens. Good education can empower us to pursue our dreams and contribute to the society in a positive way. Good education can also foster creativity, curiosity, and critical thinking, which are essential for solving the problems of the present and the future. Good education is a right and a privilege that everyone should have access to, regardless of their background, gender, or location.",
     "price": 390,
-    "colors": {
+   
       "bg-color": " #ffb3ff",
       "bg-color2": "#FF0000",
       "text-color": "#FF444A"
-    }
+   
   },
   {
     "id": 3,
@@ -32,11 +32,11 @@
     "category": "Clothing",
     "discussion": "Donation of clothing is a generous and eco-friendly way of helping others in need and reducing waste. Donation of clothing can provide warmth, comfort, and dignity to people who are homeless, poor, or displaced by disasters. Donation of clothing can also support charitable organizations that use the proceeds from selling donated clothes to fund their programs and services. Donation of clothing is a simple and meaningful act that can make a difference in the world.",
     "price": 350,
-    "colors": {
+    
       "bg-color": "#790000",
       "bg-color2": "#790000",
       "text-color": " #79C23F"
-    }
+    
   },
   {
     "id": 4,
@@ -45,11 +45,11 @@
     "category": "Food",
     "discussion": "Better food for everyone is a vision of a world where no one goes hungry or suffers from malnutrition. Better food for everyone means that people have access to sufficient, safe, and nutritious food that meets their dietary needs and preferences. Better food for everyone also implies that food is produced and consumed in a sustainable and ethical way that respects the environment and the rights of farmers and workers. Better food for everyone is a goal that requires the collaboration and commitment of all stakeholders, from governments and businesses to civil society and individuals.",
     "price": 250,
-    "colors": {
+    
       "bg-color": "#F80000",
       "bg-color2": "#F80000",
       "text-color": " #F87147"
-    }
+   
   },
   {
     "id": 5,
@@ -58,11 +58,11 @@
     "category": "Food",
     "discussion": "Healthy food for everyone is a vision of a world where no one goes hungry or suffers from malnutrition. Better food for everyone means that people have access to sufficient, safe, and nutritious food that meets their dietary needs and preferences. Better food for everyone also implies that food is produced and consumed in a sustainable and ethical way that respects the environment and the rights of farmers and workers. Better food for everyone is a goal that requires the collaboration and commitment of all stakeholders, from governments and businesses to civil society and individuals.",
     "price": 250,
-    "colors": {
+    
       "bg-color": "#F80000",
       "bg-color2": "#F80000",
       "text-color": " #F87147"
-    }
+   
   },
   {
     "id": 6,
@@ -71,24 +71,24 @@
     "category": "Clothing",
     "discussion": "Donation of clothing is a generous and eco-friendly way of helping others in need and reducing waste. Donation of clothing can provide warmth, comfort, and dignity to people who are homeless, poor, or displaced by disasters. Donation of clothing can also support charitable organizations that use the proceeds from selling donated clothes to fund their programs and services. Donation of clothing is a simple and meaningful act that can make a difference in the world.",
     "price": 350,
-    "colors": {
+    
       "bg-color": "#790000",
       "bg-color2": "#790000",
       "text-color": " #79C23F"
-    }
+   
   },
   {
     "id": 7,
     "image": "https://i.ibb.co/xMNfnvq/pexels-naomi-shi-1001914.jpg",
-    "title": "Education: A Human Right and a Key to Well-Being",
+    "title": "Education: A Human Right",
     "category": "Education",
     "discussion": "Good education is not only about acquiring knowledge and skills, but also about developing values and attitudes that can help us become responsible and compassionate citizens. Good education can empower us to pursue our dreams and contribute to the society in a positive way. Good education can also foster creativity, curiosity, and critical thinking, which are essential for solving the problems of the present and the future. Good education is a right and a privilege that everyone should have access to, regardless of their background, gender, or location.",
     "price": 390,
-    "colors": {
+   
       "bg-color": " #ffb3ff",
       "bg-color2": "#FF0000",
       "text-color": "#FF444A"
-    }
+    
   },
   {
     "id": 8,
@@ -97,11 +97,11 @@
     "category": "Health",
     "discussion": "Medicine for all is a concept that advocates for universal health care and access to essential medicines for everyone, regardless of their income, location, or health status. It is based on the principle that health is a human right and that no one should be denied the opportunity to live a healthy and dignified life. Some of the benefits of medicine for all include improved health outcomes, reduced health inequalities, lower health care costs, and increased social and economic development. Medicine for all is not only a moral obligation, but also a smart investment for a better future.",
     "price": 290,
-    "colors": {
+    
       "bg-color": "#b3c6ff",
       "bg-color2": "#000000",
       "text-color": "#0052FF"
-    }
+    
   },
   {
     "id": 9,
@@ -110,11 +110,11 @@
     "category": "Health",
     "discussion": "Vaccine for all is a concept that advocates for universal access to safe, effective, and affordable vaccines for all people, regardless of their income, location, or health status. It is based on the principle that immunization is a human right and a public good, and that no one should be left behind in the fight against preventable diseases.",
     "price": 290,
-    "colors": {
+   
       "bg-color": "#b3c6ff",
       "bg-color2": "#000000",
       "text-color": "#0052FF"
-    }
+    
   },
   {
     "id": 10,
@@ -123,11 +123,11 @@
     "category": "Education",
     "discussion": "Lifelong learning for all implies a goal of providing everyone with the opportunities and resources to learn throughout their lives, regardless of their age, stage, or mode. It is based on the principle that lifelong learning is a fundamental right and a necessity, and that no one should be excluded or limited from learning. Some of the benefits of lifelong learning for all include developing competencies, adapting to changes, enhancing employability, and contributing to society.",
     "price": 390,
-    "colors": {
+    
       "bg-color": " #ffb3ff",
       "bg-color2": "#FF0000",
       "text-color": "#FF444A"
-    }
+    
   },
   {
     "id": 11,
@@ -136,11 +136,11 @@
     "category": "Clothing",
     "discussion": "Diversity for all implies a goal of providing everyone with clothing that is inclusive, diverse, and respectful of their culture, identity, and preferences. It is based on the principle that diversity is a strength and a source of beauty in clothing, and that no one should be excluded or discriminated by the clothing norms and standards. Some of the benefits of diversity for all include enhancing creativity, innovation, and expression, celebrating differences and similarities, fostering tolerance and acceptance, and promoting social cohesion.",
     "price": 350,
-    "colors": {
+   
       "bg-color": "#790000",
       "bg-color2": "#790000",
       "text-color": " #79C23F"
-    }
+   
   },
   {
     "id": 12,
@@ -149,10 +149,10 @@
     "category": "Food",
     "discussion": "Nutrition for all a vision of ensuring that everyone has access to adequate, safe, and nutritious food that meets their dietary needs and preferences. It is based on the principle that nutrition is a key determinant and a human right of health, and that no one should suffer from hunger, malnutrition, or food insecurity. Some of the benefits of nutrition for all include improving health outcomes, preventing chronic diseases, enhancing cognitive development, and reducing poverty.",
     "price": 250,
-    "colors": {
+   
       "bg-color": "#F80000",
       "bg-color2": "#F80000",
       "text-color": " #F87147"
-    }
+   
   }
 ]

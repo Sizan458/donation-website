@@ -8,7 +8,7 @@ const DonationsCart = ({card}) => {
   <div className="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
     <img
       src={image}
-      className="h-full w-full object-cover "
+      className="h-[250px] w-full object-cover "
     />
   </div>
   <div className="p-6">
