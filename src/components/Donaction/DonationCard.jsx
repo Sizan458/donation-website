@@ -28,7 +28,7 @@ const DonationCard = ({data}) => {
     <h2 className="text-2xl font-bold text-black">{title}</h2>
     <p className="">{discussion}</p>
    
-    <div className=" absolute bg-black w-[96%]  opacity-50 h-[70px] mt-[429px]"  >
+    <div className=" absolute bg-black w-[80.9%]  opacity-50 h-[70px] mt-[429px] md:w-[90.9%] lg:w-[95.6%]"  >
     <div className=" mt-3  ml-3">
       <button className="btn btn-primary   bg-red-500 text-white" onClick={handleClick}>Donate {price}$</button>
     </div>
