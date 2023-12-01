@@ -5,7 +5,7 @@
 
 
 
-# Course registration
+# Donation website
 
 A simple website to Donation.
 
